@@ -1,5 +1,3 @@
-Perfeito! Aqui está um README.md completo, pronto para você copiar e usar no seu repositório:
-
 📊 Planilha de Organização – Imposto de Renda
 
 Este projeto disponibiliza uma planilha desenvolvida para auxiliar na organização das informações necessárias para a declaração do Imposto de Renda Pessoa Física.
