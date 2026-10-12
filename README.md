@@ -1,58 +1,61 @@
-📊 Planilha de Organização – Imposto de Renda
+# Organização para Declaração de Imposto de Renda — Planilha em Excel
 
-Este projeto disponibiliza uma planilha desenvolvida para auxiliar na organização das informações necessárias para a declaração do Imposto de Renda Pessoa Física.
+Projeto educacional de organização de informações financeiras para auxiliar na preparação da declaração anual do Imposto de Renda Pessoa Física (IRPF). A proposta é reunir registros relevantes em uma planilha, facilitando sua consulta no período de declaração.
 
-Com ela, é possível registrar rendimentos, despesas, bens, investimentos e outros dados importantes ao longo do ano, facilitando o preenchimento da declaração e reduzindo riscos de erros.
+## Objetivo
 
-🎯 Objetivo
+Centralizar informações pessoais, rendimentos, despesas e dados patrimoniais em um único arquivo de apoio à organização dos documentos utilizados na declaração do IRPF.
 
-Ajudar contribuintes a manterem seus dados financeiros organizados, centralizados e prontos para uso no momento da declaração anual.
+## Informações descritas no projeto
 
-📁 Estrutura da Planilha
+De acordo com a documentação original, a planilha foi pensada para organizar informações como:
 
-A planilha é organizada em abas para facilitar o controle das informações, como:
+- Dados pessoais.
+- Rendimentos.
+- Despesas potencialmente dedutíveis.
+- Bens e direitos.
+- Investimentos.
+- Outras informações relevantes para a declaração.
 
-Dados pessoais
+> Essas categorias são mencionadas no README anterior. A estrutura das abas e os recursos disponíveis ainda precisam ser confirmados diretamente no arquivo Excel. A dedutibilidade de despesas depende das regras fiscais aplicáveis.
 
-Rendimentos
+## Tecnologia
 
-Despesas dedutíveis
+- Microsoft Excel (`.xlsx`).
 
-Bens e direitos
+## Como utilizar
 
-Investimentos
+1. Baixe o arquivo [`Planilha Imposto de renda.xlsx`](Planilha%20Imposto%20de%20renda.xlsx) deste repositório.
+2. Abra uma cópia do arquivo no Microsoft Excel.
+3. Confira a estrutura existente e preencha somente os campos correspondentes às informações que deseja organizar.
+4. Mantenha os documentos comprobatórios em local seguro e consulte as orientações oficiais para elaborar sua declaração.
 
-Outras informações relevantes
+> A compatibilidade com LibreOffice Calc e Google Sheets não foi testada. Não publique planilhas preenchidas com informações pessoais ou fiscais sensíveis.
 
-(A estrutura pode ser adaptada conforme a necessidade do usuário.)
+## Estrutura do repositório
 
-🚀 Como Usar
+```text
+.
+├── Planilha Imposto de renda.xlsx
+└── README.md
+```
 
-Faça o download da planilha.
+## Aprendizados
 
-Abra no Excel, LibreOffice ou Google Sheets.
+Este projeto documenta estudos e atividades práticas relacionados a:
 
-Preencha os dados ao longo do ano.
+- Organização de informações financeiras em planilhas.
+- Estruturação de registros para consulta.
+- Preparação e documentação de projetos em Excel.
 
-Utilize as informações na declaração do Imposto de Renda.
+## Demonstração
 
-💻 Requisitos
+Uma captura de tela da planilha poderá ser incluída após a revisão visual, com todos os dados pessoais removidos ou substituídos por exemplos fictícios.
 
-Microsoft Excel, LibreOffice Calc ou Google Sheets
+## Observações importantes
 
-Conhecimento básico de planilhas
+Esta planilha é uma ferramenta de **organização pessoal e uso educacional**. Não realiza, por si só, a declaração oficial, não garante conformidade tributária e **não substitui a orientação de um contador ou profissional habilitado**, quando necessária. Consulte sempre as regras vigentes da Receita Federal.
 
-⚠️ Aviso
+## Autor
 
-Esta planilha não substitui a orientação de um contador ou profissional especializado.
-Utilize como ferramenta de apoio para organização pessoal.
-
-📌 Contribuições
-
-Contribuições são bem-vindas!
-Sinta-se à vontade para abrir issues ou pull requests com melhorias.
-
-📄 Licença
-
-Este projeto está sob a licença MIT.
-Você pode usar, modificar e distribuir livremente.
+**Vinícius Gonçalves** · [GitHub](https://github.com/viniciustig)
